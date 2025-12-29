@@ -12,5 +12,5 @@ servidor.use(express.json());
 adicionarRotas(servidor);
 
 const PORTA = process.env.PORT;
-servidor.listen(PORTA, () => console.log(`--> API subiu na porta ${PORTA}`));
+servidor.listen(PORTA, () => console.log(`--> API subiuuu na porta ${PORTA}`));
 
